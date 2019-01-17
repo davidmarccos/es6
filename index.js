@@ -1,4 +1,5 @@
-//executar no terminal o nodemon escrevendo npm start
+
+//execute no terminal o nodemon escrevendo npm start
 
 class Message{
     constructor(text = '', created = Date.now()){
